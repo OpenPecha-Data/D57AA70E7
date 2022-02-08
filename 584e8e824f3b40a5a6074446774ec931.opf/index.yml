@@ -6,6 +6,6 @@ annotations:
     parts: {}
     span:
     - vol: 38
-      start: 1
+      start: 0
       end: 2979
     work_id: D3058
